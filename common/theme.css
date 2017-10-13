@@ -17,10 +17,23 @@
     color: var(--color-dark);
   }
 
+  h2 {
+    font-family: var(--font-primary);
+    font-weight: normal;
+    letter-spacing: 0.1em;
+    color: var(--color-dark);
+  }
+
   h3 {
     font-family: var(--font-buttons);
     font-weight: normal;
     letter-spacing: 0.1em;
+    color: var(--color-dark);
+  }
+
+  h4 {
+    font-family: var(--font-primary);
+    font-weight: normal;
     color: var(--color-dark);
   }
 

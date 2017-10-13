@@ -1,0 +1,11 @@
+.card-basic {
+  width: 100%;
+  max-width: 30em;
+  max-height: 30em;
+  background-color: var(--color-dark);
+  background-size: cover;
+  background-position: center center;
+  height: 20em;
+  width: 20em;
+  position: relative;
+}
