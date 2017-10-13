@@ -80,3 +80,29 @@
 .about-text {
   padding: 1em;
 }
+
+.descrip-text {
+  max-width: 20em;
+  display: block;
+  margin: auto;
+}
+
+.project img {
+  width: 100%;
+
+}
+
+.project {
+  padding: 2em;
+  max-width: 50em;
+  display: block;
+  margin: auto;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .descrip-text {
+    max-width: 30em;
+  }
+
+}
