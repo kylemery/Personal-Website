@@ -11,49 +11,49 @@
 }
 
 .sharp-as-knives {
-  background-image: url("../../images/skknife.jpg");
+  background-image: url("{{site.baseurl}}/images/skknife.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .motion-reel {
-  background-image: url("../../images/mother-walk.gif");
+  background-image: url("{{site.baseurl}}/images/mother-walk.gif");
   background-size: cover;
   background-position: center;
 }
 
 .illustration {
-  background-image: url("../../images/david.png");
+  background-image: url("{{site.baseurl}}/images/david.png");
   background-size: cover;
   background-position: center;
 }
 
 .pride-centre {
-  background-image: url("../../images/pride-centre.jpg");
+  background-image: url("{{site.baseurl}}/images/pride-centre.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .qwords {
-  background-image: url("../../images/quinn-2.jpg");
+  background-image: url("{{site.baseurl}}/images/quinn-2.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .bird-skate {
-  background-image: url("../../images/bird-skate.png");
+  background-image: url("{{site.baseurl}}/images/bird-skate.png");
   background-size: cover;
   background-position: center;
 }
 
 .poster-project {
-  background-image: url("../../images/posters.jpg");
+  background-image: url("{{site.baseurl}}/images/posters.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .prideweek {
-  background-image: url("../../images/prideweek.jpg");
+  background-image: url("{{site.baseurl}}/images/prideweek.jpg");
   background-size: cover;
   background-position: center;
 }
