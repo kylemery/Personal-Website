@@ -1,9 +1,9 @@
 :root {
-  --color-primary: #f59396;
-  --color-secondary: #12aba7;
-  --color-accent: #cbe6ca;
+  --color-primary: #352249;
+  --color-secondary: #FBE8A6;
+  --color-accent: #6DCFF6;
   --color-dark: #35484e;
-  --background-color: #eff4d2;
+  --background-color: #EA3E72;
 
   --font-primary: "mr-eaves-sans",arial,sans-serif;
   --font-secondary: "museo-sans",arial,sans-serif;
@@ -22,7 +22,7 @@
     font-family: var(--font-primary);
     font-weight: normal;
     letter-spacing: 0.1em;
-    color: var(--color-dark);
+    color: var(--color-secondary);
   }
 
   h3 {

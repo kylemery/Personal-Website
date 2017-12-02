@@ -24,7 +24,7 @@
 }
 
 h3 a {
-  color: var(--color-dark);
+  color: var(--color-accent);
   text-decoration: none;
   border-bottom: solid var(--background-color) 2px;
   padding-left: 2px;
