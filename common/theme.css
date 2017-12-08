@@ -14,7 +14,7 @@
     font-family: var(--font-secondary);
     font-weight: 900;
     letter-spacing: 0.3em;
-    color: var(--color-dark);
+    color: white;
     margin: 0;
   }
 
@@ -41,7 +41,7 @@
   p {
     font-family: var(--font-primary);
     font-weight: 200;
-    color: var(--color-dark);
+    color: white;
   }
 
   body {

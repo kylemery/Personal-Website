@@ -92,6 +92,10 @@
   margin: auto;
 }
 
+.video {
+  width: 100%
+}
+
 @media only screen and (min-width: 38em) {
 
   .descrip-text {

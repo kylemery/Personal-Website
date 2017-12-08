@@ -1,7 +1,10 @@
 .big-header {
   background-color: var(--color-primary);
   height: 30em;
-  padding-top: 5em;
+  padding-top: 6em;
+  background-image: linear-gradient(to bottom, transparent, rgba(53, 34, 73, 1) 0%, rgba(255, 255, 255, 0) 100%), url("../images/girl-header.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .small-header {
