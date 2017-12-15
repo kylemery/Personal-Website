@@ -1,14 +1,26 @@
 
 .card-basic {
-  width: 100%;
   max-width: 100%;
   max-height: 30em;
-  background-color: var(--color-dark);
   background-size: cover;
   background-position: center center;
   height: 20em;
   width: 20em;
   position: relative;
+}
+
+.color-overlay {
+  max-height: 30em;
+  height: 20em;
+  width: 20em;
+  background-color: var(--color-primary);
+  opacity: 0.5;
+}
+
+.color-overlay:hover {
+  opacity: 0.8;
+  background-color: var(--color-primary);
+
 }
 
 .sharp-as-knives {
@@ -24,7 +36,7 @@
 }
 
 .illustration {
-  background-image: url("../images/david.png");
+  background-image: url("../images/david.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -42,7 +54,7 @@
 }
 
 .bird-skate {
-  background-image: url("../images/bird-skate.png");
+  background-image: url("../images/bird-skate.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -57,4 +69,21 @@
   background-image: url("../images/prideweek.jpg");
   background-size: cover;
   background-position: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .color-overlay {
+    opacity: 0;
+  }
+
+  .card-title {
+    opacity: 0;
+  }
+
+  .card-basic:hover .card-title {
+    opacity: 1;
+  }
+
+
 }

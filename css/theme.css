@@ -35,7 +35,7 @@
   h4 {
     font-family: var(--font-primary);
     font-weight: normal;
-    color: var(--color-dark);
+    color: var(--color-secondary);
   }
 
   p {

@@ -1,7 +1,6 @@
 .card-title h4 {
   font-family: var(--font-primary);
   letter-spacing: 0.3em;
-  color: var(--background-color);
   position: absolute;
   top: 0;
   bottom: 0;
@@ -11,6 +10,10 @@
   margin: auto;
 }
 
+.card-basic:hover .color-overlay {
+  opacity: 0.8;
+  background-color: var(--color-primary);
+}
 
 .recent-work {
 
