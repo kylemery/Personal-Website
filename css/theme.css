@@ -47,3 +47,51 @@
   body {
     background-color: var(--background-color)
   }
+
+  .sharpasknives {
+    background-color: white;
+  }
+
+  .sharpasknives h1 {
+    color: var(--background-color);
+  }
+
+  .sharpasknives p {
+    color: var(--color-primary);
+  }
+
+  .pridecentre {
+    background-color: white;
+  }
+
+  .pridecentre h1 {
+    color: var(--background-color);
+  }
+
+  .pridecentre p {
+    color: var(--color-primary);
+  }
+
+  .motion {
+    background-color: var(--color-primary);
+  }
+
+  .motion h1 {
+    color: white;
+  }
+
+  .motion p {
+    color: white;
+  }
+
+  .illustration-page {
+    background-color: var(--color-primary);
+  }
+
+  .illustration-page h1 {
+    color: white;
+  }
+
+  .illustration-page p {
+    color: white;
+  }
