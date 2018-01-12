@@ -119,3 +119,15 @@
   .poster-project p {
     color: var(--color-primary);
   }
+
+  .campus-pride-week {
+    background-color: white;
+  }
+
+  .campus-pride-week h1 {
+    color: var(--background-color);
+  }
+
+  .campus-pride-week p {
+    color: var(--color-primary);
+  }
