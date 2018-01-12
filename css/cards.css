@@ -47,7 +47,7 @@
   background-position: center;
 }
 
-.qwords {
+.qwords-square {
   background-image: url("../images/quinn-2.jpg");
   background-size: cover;
   background-position: center;
@@ -59,7 +59,7 @@
   background-position: center;
 }
 
-.poster-project {
+.posters {
   background-image: url("../images/posters.jpg");
   background-size: cover;
   background-position: center;

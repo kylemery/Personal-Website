@@ -95,3 +95,27 @@
   .illustration-page p {
     color: white;
   }
+
+  .qwords {
+    background-color: var(--color-primary);
+  }
+
+  .qwords h1 {
+    color: white;
+  }
+
+  .qwords p {
+    color: white;
+  }
+
+  .poster-project {
+    background-color: var(--color-accent);
+  }
+
+  .poster-project h1 {
+    color: var(--background-color);
+  }
+
+  .poster-project p {
+    color: var(--color-primary);
+  }
