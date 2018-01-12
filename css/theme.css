@@ -131,3 +131,37 @@
   .campus-pride-week p {
     color: var(--color-primary);
   }
+
+  .girl-skate {
+    background-color: var(--color-accent);
+  }
+
+  .girl-skate h1 {
+    color: var(--background-color);
+  }
+
+  .girl-skate p {
+    color: var(--color-primary);
+  }
+
+  .missing {
+    background-color: var(--color-accent);
+  }
+
+  .missing h1 {
+    color: var(--background-color);
+  }
+
+  .missing p {
+    color: var(--color-primary);
+  }
+
+  .fa {
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }

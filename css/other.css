@@ -99,6 +99,14 @@
   width: 100%
 }
 
+.social-media {
+
+}
+
+.footer-all p {
+  color: white;
+}
+
 @media only screen and (min-width: 38em) {
 
   .descrip-text {
