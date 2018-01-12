@@ -1,0 +1,14 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Katrin Emery <katrin@kemery.ca>
+Site: http://kemery.ca
+GitHub: https://github.com/kyleemery
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+My family and friends.

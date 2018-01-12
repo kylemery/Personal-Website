@@ -1,0 +1,6 @@
+# www.robotstxt.org
+
+Sitemap: http://kemery.ca/sitemap.xml
+
+User-Agent: *
+Disallow:
