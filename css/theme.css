@@ -1,13 +1,13 @@
 :root {
-  --color-primary: #352249;
-  --color-secondary: #FBE8A6;
-  --color-accent: #6DCFF6;
+  --color-primary: #271A36;
+  --color-secondary: #D41F3B;
+  --color-accent: #E4DE65;
   --color-dark: #35484e;
-  --background-color: #EA3E72;
+  --background-color: white;
 
-  --font-primary: "mr-eaves-sans",arial,sans-serif;
+  --font-primary: "quasimoda",arial,sans-serif;
   --font-secondary: "museo-sans",arial,sans-serif;
-  --font-buttons: "mr-eaves-sans",arial,sans-serif;
+  --font-buttons: "quasimoda",arial,sans-serif;
 }
 
   h1 {
@@ -35,7 +35,7 @@
   h4 {
     font-family: var(--font-primary);
     font-weight: normal;
-    color: var(--color-secondary);
+    color: var(--color-accent);
   }
 
   p {
@@ -165,3 +165,56 @@
     text-align: center;
     text-decoration: none;
   }
+
+  .hello-there {
+    color: var(--color-secondary);
+  }
+
+  .intro-line {
+    color: var(--color-secondary);
+  }
+
+  .header-text {
+    max-width: 25em;
+    padding-top: 1em;
+  }
+
+@media only screen and (min-width: 47.2em) {
+
+  .prideweek {
+    margin-right: 0;
+  }
+
+  .sharp-as-knives {
+    margin-left: 0;
+  }
+
+  .motion-reel {
+    margin-right: 0;
+  }
+
+  .pride-centre {
+    margin-left: 0;
+  }
+
+  .illustration {
+    margin-right: 0;
+  }
+
+  .qwords-square {
+    margin-left: 0;
+  }
+
+  .posters {
+    margin-right: 0;
+  }
+
+  .bird-skate {
+    margin-left: 0;
+  }
+
+  .header-text {
+    padding-top: 5em;
+  }
+
+}

@@ -77,6 +77,10 @@
   padding: 1em;
 }
 
+.about-text p {
+  color: var(--color-primary);
+}
+
 .descrip-text {
   max-width: 20em;
   display: block;
@@ -97,10 +101,6 @@
 
 .video {
   width: 100%
-}
-
-.social-media {
-
 }
 
 .footer-all p {

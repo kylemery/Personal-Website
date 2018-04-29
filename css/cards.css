@@ -14,13 +14,12 @@
   height: 20em;
   width: 20em;
   background-color: var(--color-primary);
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
-.color-overlay:hover {
-  opacity: 0.8;
-  background-color: var(--color-primary);
 
+.color-overlay:hover {
+  opacity: 0.75;
 }
 
 .sharp-as-knives {
