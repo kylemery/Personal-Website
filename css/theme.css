@@ -132,15 +132,15 @@
     color: var(--color-primary);
   }
 
-  .girl-skate {
-    background-color: var(--color-accent);
+  .findev {
+    background-color: white;
   }
 
-  .girl-skate h1 {
-    color: var(--background-color);
+  .findev h1 {
+    color: var(--color-primary);
   }
 
-  .girl-skate p {
+  .findev p {
     color: var(--color-primary);
   }
 
@@ -209,7 +209,7 @@
     margin-right: 0;
   }
 
-  .bird-skate {
+  .findev-square {
     margin-left: 0;
   }
 
