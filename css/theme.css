@@ -109,11 +109,11 @@
   }
 
   .poster-project {
-    background-color: var(--color-accent);
+    background-color: white;
   }
 
   .poster-project h1 {
-    color: var(--background-color);
+    color: var(--color-secondary);
   }
 
   .poster-project p {
